@@ -1,0 +1,190 @@
+/* ==UserStyle==
+@name        Amazon-Ocean-Theme
+@version     1.0.0
+@description A simple ocean theme.
+@namespace   Shade
+@author      Shade
+@homepageURL https://github.com/shadeoxide/Amazon-Ocean
+==/UserStyle== */
+.sg-col-inner {
+    color: white;
+    background-color: #100f1a;
+}
+body {
+    color: white;
+    background-color: #100f1a;
+}
+html {
+    color: white;
+    background-color: #100f1a;
+}
+.a-color-base {
+    color: white !important;
+}
+.a-color-secondary {
+    color: rgba(255, 255, 255, 0.6)
+}
+.s-desktop-content s-opposite-dir sg-row {
+    background-color: #1d1c2e !important;
+}
+.s-desktop-content s-opposite-dir sg-row {
+    margin: 0;
+}
+.a-price-whole {
+    color: white;
+}
+.a-price-symbol {
+    color: white;
+}
+.a-price-fraction {
+    color: white;
+}
+.text-link-stripe {
+    background-color: #1d1c2e !important;
+}
+.gw-card-layout .a-cardui {
+    background-color: #1d1c2e !important;
+}
+.gw-card-layout .desktop-row > div {
+    background-color: #1d1c2e !important;
+}
+#a-page {
+    background-color: #1d1c2e !important;
+}
+#rhf .rhf-fresh-header {
+    color: white;
+}
+h2 {
+    color: white;
+}
+.fresh-shoveler .as-title-block .a-color-base {
+    color: white!important;
+}
+.amzn-brand .color-black {
+    color: white;
+}
+#rhf .rhf-sign-in-button {
+    color: white;
+}
+.amzn-brand .color-squid-ink {
+    color: white;
+}
+
+#dp {
+    color: white;
+    background-color: #1d1c2e !important;
+}
+.a-color-secondary {
+    color: white!important;
+}
+.a-accordion .a-accordion-active .a-accordion-row {
+    cursor: default;
+    background-color: #1d1c2e !important;
+}
+.a-accordion .a-accordion-active .a-accordion-inner {
+    display: block;
+    background-color: #1d1c2e !important;
+}
+.buybox-tabular-label-truncate:before {
+    background-color: #1d1c2e !important;
+}
+.buybox-tabular-label-truncate:after {
+    background-color: #1d1c2e !important;
+}
+.a-accordion .a-accordion-row {
+    background-color: #1d1c2e !important;
+}
+.a-box {
+    background-color: #100f1a;
+}
+.a-ordered-list .a-list-item,
+.a-unordered-list .a-list-item,
+ol .a-list-item,
+ul .a-list-item {
+    color: white;
+}
+#quickPromoBucketContent ul {
+    color: #fff;
+}
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td.attribute,
+.aplus-v2 .premium-aplus-module-5 table.a-bordered td.active-item {
+    background-color: #100f1a;
+    color: white;
+}
+.aplus-v2 .premium-aplus-module-5 .attribute,
+.aplus-v2 .premium-aplus-module-5 .active-item,
+.aplus-v2 .premium-aplus-module-5 .description {
+    color: white;
+}
+.aplus-data-column {
+    background-color: #100f1a;
+}
+.a-column a-span6 a-spacing-base a-ws-span6 {
+    background-color: #100f1a;
+}
+table.a-keyvalue th {
+    background-color: #100f1a;
+    color: white;
+}
+.comparison_table tr:nth-child(even) td.comparison_baseitem_column {
+    background-color: #100f1a;
+}
+table.a-bordered tr:nth-child(even) {
+    background-color: #100f1a;
+}
+.comparison_baseitem_column {
+    background-color: #100f1a;
+}
+#productDescription {
+    color: white;
+}
+.a-divider.a-divider-section .a-divider-inner:after {
+    background-color: #100f1a;
+    color: white;
+}
+
+#productDescription_feature_div > h2.softlines {
+    color: white;
+}
+.a-icon {
+        background-image: url("https://raw.githubusercontent.com/abh80/abh80/master/amazon-logo.png")
+}
+.a-icon-logo,
+.a-logo {
+    background-position: center;
+}
+.a-icon,
+.a-link-emphasis:after {
+    background-size: cover;
+}
+.s-desktop-toolbar {
+    background-color: rgba(0, 0, 0, 0.01);
+}
+
+.s-desktop-content {
+    background-color: rgba(0, 0, 0, 0.01);
+    padding-top: 0px;
+}
+/* custom scroll bar */
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #100f1a;
+}
+::-webkit-scrollbar-track {
+    background-color: #100f1a;
+}
+::-webkit-scrollbar-thumb {
+    background: #7289da;
+    border-radius: 20px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+#hmenu-content {
+     background-color: #100f1a;
+     color : white;
+}
+#hmenu-container #hmenu-canvas #hmenu-content ul.hmenu li a:visited {
+    text-decoration: none;
+    color: #fff;
+}
